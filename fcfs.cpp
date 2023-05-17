@@ -17,7 +17,7 @@ main()
         cout<<"Enter the BT of process "<<counter+1<<" :"<<endl;
         cin>>BT[counter];
     }
-    int timer=AT[0];rs
+    int timer=AT[0];
 
     //Timer
     for(counter=0;counter<n;counter++)
